@@ -1,5 +1,5 @@
 # MIPS_OS
-Operating System Curriculum Design 2016.7., Beihang University, CS undergraduate course.
+Operating System Curriculum Design 2016, Beihang University, CS undergraduate course.
 
 (final score: 100/100, top 0.5%)
 
