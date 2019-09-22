@@ -1,6 +1,6 @@
 # MIPS_OS
 Operating System Curriculum Design 2016, Beihang University, CS undergraduate course.
 
-(final score: 100/100, top 0.5%)
+(score: 100/100, top 5%)
 
-A small linux OS in C which can successfully operate on a MIPS virtual machine like gxemul-0.4.6.
+A small linux operating system in C and MIPS, which can successfully operate on a virtual machine like gxemul-0.4.6.
