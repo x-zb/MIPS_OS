@@ -1,4 +1,4 @@
-# MIPS_OS
+# SmallUnix
 Operating System Curriculum Design, Beihang University, CS undergraduate course.
 
 (score: 100/100, top 5%)
