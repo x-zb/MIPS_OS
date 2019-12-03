@@ -1,6 +1,6 @@
 # SmallUnix
-Operating System Curriculum Design, Beihang University, CS undergraduate course.
+Operating System Course Project, Beihang University, CS undergraduate course.
 
-(score: 100/100, top 5%)
+(score: 100/100)
 
-A small unix operating system in C and MIPS, which can successfully operate on a virtual machine like gxemul-0.4.6.
+A small MIPS operating system, which operates on a virtual machine like gxemul-0.4.6.
